@@ -1,6 +1,6 @@
 {
   "name": "longest-line",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get the longest line length of a string.",
   "license": "MIT",
   "repository": "danilosampaio/longest-line",
@@ -19,7 +19,7 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "longest", "line", "length" ,"word", "text"
   ],
   "dependencies": {
     "strip-ansi": "^3.0.0"
